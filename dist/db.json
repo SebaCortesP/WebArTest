@@ -1,0 +1,22 @@
+[
+  {
+    "qr_image": "qrs/silla-qr.png",
+    "code": "model-silla",
+    "model": "modelos/silla.glb"
+  },
+  {
+    "qr_image": "qrs/mesa-qr.png",
+    "code": "model-mesa",
+    "model": "modelos/mesa.glb"
+  },
+  {
+    "qr_image": "qrs/lámpara-qr.png",
+    "code": "model-lampara",
+    "model": "modelos/lampara.glb"
+  },
+  {
+    "qr_image": "qrs/sofa-qr.png",
+    "code": "model-sofa",
+    "model": "modelos/sofa.glb"
+  }
+]
