@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/WebArTest/',
+  base: 'https://sebacortesp.github.io/WebArTest/',
   plugins: [
     vue(),
     vueDevTools(),
